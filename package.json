@@ -1,0 +1,18 @@
+{
+  "name": "web-cursos-back",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/jaoq17/webcurso-back.git",
+  "author": "Jaoq17 <www.jhonnyocampo@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon index"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.3"
+  }
+}
